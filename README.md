@@ -1,10 +1,13 @@
-# DIO - Trilha Java Básico
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:030737,60:2426aa&text=DIO%20Lab%20Trilha%20Java%20B%C3%A1sico&reversal=false&section=header&textBg=false&animation=fadeIn&fontColor=f8fafc&fontSize=50">
 
-www.dio.me
-
-#### Autores
+## Autor
 
 - [Alberto Yano](https://github.com/alberto-yano)
+
+## :question: Sobre
+
+Esse projeto é um exercício da aula da **DIO "Trilha Java Básico"** onde o enunciado do projeto se encontra
+neste [link](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)).
 
 ## Sintaxe - Desafio
 
