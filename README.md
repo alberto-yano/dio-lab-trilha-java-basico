@@ -7,7 +7,7 @@
 ## :question: Sobre
 
 Esse projeto é um exercício da aula da **DIO "Trilha Java Básico"** onde o enunciado do projeto se encontra
-neste [link](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)).
+neste [link](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe).
 
 ## Sintaxe - Desafio
 
